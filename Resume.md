@@ -19,7 +19,7 @@
             - KNeighborsClassifier
             - Naive_Bayes
         - Pandas
-        - nltk.tokenize
+        - nltk
         - matplotlib
 + エディター
     - vim
