@@ -1,5 +1,5 @@
 # 謝沐宸 (森松水緒)  
-###### シェ・ムチェン&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;もりまつ　みお  
+###### シェ・ムチェン&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(もりまつ　みお)  
 出身:　台湾
 
 ## **大学**
