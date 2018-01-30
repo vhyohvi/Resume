@@ -30,7 +30,7 @@
 + 環境
     - Linux Mint (Ubuntu 16.04)
     - Windows 10
-        - Windows Subsystem for Linuxj
+        - Windows Subsystem for Linux
     - Unix コマンドライン（基本操作ができる）
         - Zsh
 
